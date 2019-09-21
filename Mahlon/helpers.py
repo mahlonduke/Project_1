@@ -1,1 +1,2 @@
-f"This is me helping!"
+def greet(name)
+    f"Hello {name}"
