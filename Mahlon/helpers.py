@@ -1,2 +1,2 @@
-def greet(name)
-    f"Hello {name}"
+def greet(name):
+    print(f"Hello {name}")
